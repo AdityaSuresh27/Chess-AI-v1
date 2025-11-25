@@ -1,0 +1,64 @@
+# =========================
+#   Project-Specific Ignored Files
+# =========================
+
+# Stockfish binaries
+stockfish.exe
+Stockfish.exe
+stockfish
+stockfish/*
+stockfish.zip
+
+# Chess data files
+*.pgn
+
+# Pickle/model files
+*.pkl
+*.pickle
+*.sav
+
+# =========================
+#   Python Ignores
+# =========================
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# =========================
+#   IDE / Editor Files
+# =========================
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# =========================
+#   OS/System Files
+# =========================
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
